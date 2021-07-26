@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://silentrobi.github.io/csb-tk80n/static/css/main.518f79e4.chunk.css",
+    "main.js": "https://silentrobi.github.io/csb-tk80n/static/js/main.a9699a1b.chunk.js",
+    "main.js.map": "https://silentrobi.github.io/csb-tk80n/static/js/main.a9699a1b.chunk.js.map",
+    "runtime-main.js": "https://silentrobi.github.io/csb-tk80n/static/js/runtime-main.cf5b724a.js",
+    "runtime-main.js.map": "https://silentrobi.github.io/csb-tk80n/static/js/runtime-main.cf5b724a.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "https://silentrobi.github.io/csb-tk80n/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.6c6c3165.chunk.js": "https://silentrobi.github.io/csb-tk80n/static/js/2.6c6c3165.chunk.js",
+    "static/js/2.6c6c3165.chunk.js.map": "https://silentrobi.github.io/csb-tk80n/static/js/2.6c6c3165.chunk.js.map",
+    "index.html": "https://silentrobi.github.io/csb-tk80n/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "https://silentrobi.github.io/csb-tk80n/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.518f79e4.chunk.css.map": "https://silentrobi.github.io/csb-tk80n/static/css/main.518f79e4.chunk.css.map",
+    "static/js/2.6c6c3165.chunk.js.LICENSE.txt": "https://silentrobi.github.io/csb-tk80n/static/js/2.6c6c3165.chunk.js.LICENSE.txt",
+    "static/media/svg-1.198c8835.svg": "https://silentrobi.github.io/csb-tk80n/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.5f11287c.svg": "https://silentrobi.github.io/csb-tk80n/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-4.5ef826e9.svg": "https://silentrobi.github.io/csb-tk80n/static/media/svg-4.5ef826e9.svg",
+    "static/media/svg-5.0bd0cf47.svg": "https://silentrobi.github.io/csb-tk80n/static/media/svg-5.0bd0cf47.svg",
+    "static/media/svg-6.ab7d032d.svg": "https://silentrobi.github.io/csb-tk80n/static/media/svg-6.ab7d032d.svg",
+    "static/media/video.7d1ea6a9.mp4": "https://silentrobi.github.io/csb-tk80n/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf5b724a.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.6c6c3165.chunk.js",
+    "static/css/main.518f79e4.chunk.css",
+    "static/js/main.a9699a1b.chunk.js"
+  ]
+}
